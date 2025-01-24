@@ -1,1 +1,2 @@
-# Parkinson-Diseases-Detection
+Multiple_disease_prediction
+
